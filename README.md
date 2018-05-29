@@ -14,3 +14,6 @@
 ### 五月
 
 2018-05-27 >> [Sublime Text3 安装破解](https://github.com/Jszy/notes/issues/1)
+
+2018-05-28 >> [配置ssh key 对应多个github账号](https://github.com/Jszy/notes/issues/2)
+
