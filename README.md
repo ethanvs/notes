@@ -17,3 +17,5 @@
 
 2018-05-28 >> [配置ssh key 对应多个github账号](https://github.com/Jszy/notes/issues/2)
 
+2018-06-01 >> [Scss的简单使用](https://github.com/Jszy/notes/issues/3)
+
