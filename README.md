@@ -11,6 +11,10 @@
 
 开始你的操作~
 
+### 九月
+
+2018-09-03 >> [数组操作slice、splice、copyWithin](https://github.com/Jszy/notes/issues/6)
+
 ### 七月
 
 2018-07-20 >> [前后端分离 一次操作 两次请求问题](https://github.com/Jszy/notes/issues/4)
