@@ -13,6 +13,8 @@
 
 ### 九月
 
+2018-09-06 >> [JS Hack: 数组、对象操作](https://github.com/Jszy/notes/issues/7)
+
 2018-09-03 >> [数组操作slice、splice、copyWithin](https://github.com/Jszy/notes/issues/6)
 
 ### 七月
