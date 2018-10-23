@@ -13,7 +13,7 @@
 
 ### 十月
 
-2018-10-23 >> [处理Win10快捷方式小箭头](https://github.com/Jszy/notes/issues/8)
+2018-10-23 >> [处理Win10快捷方式小箭头](https://github.com/Jszy/notes/issues/9)
 
 ### 九月
 
