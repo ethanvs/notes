@@ -11,6 +11,10 @@
 
 开始你的操作~
 
+### 十月
+
+2018-10-23 >> [处理Win10快捷方式小箭头](https://github.com/Jszy/notes/issues/8)
+
 ### 九月
 
 2018-09-03 >> [数组操作slice、splice、copyWithin](https://github.com/Jszy/notes/issues/6)
